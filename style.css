@@ -67,6 +67,10 @@ body, html {
 }
 
 #phone-main {
+<<<<<<< HEAD
+=======
+    text-align: center;
+>>>>>>> 042d8bc2ec46b3c44ae8233b8faaa63eb4373baf
     margin: 50px;
     background-color: #fff;
     padding: 20px;
@@ -147,6 +151,11 @@ body, html {
     padding: 12px;
     background-color: #fff;
     box-shadow: 1px -1px 20px #999999;
+}
+
+#stripetrough {
+    font-size: 14px;
+    text-decoration: line-through;
 }
 
 #underbar > a {
